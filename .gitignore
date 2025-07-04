@@ -3,3 +3,5 @@ hello.cpp
 hello_cpp
 hello_c
 hello.o
+hello_c.o
+hello_cpp.o
